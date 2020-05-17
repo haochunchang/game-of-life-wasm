@@ -1,3 +1,6 @@
+# game-of-life-wasm
+Implement Conway's Game of Life using rust and WebAssembly
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
